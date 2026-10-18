@@ -1,0 +1,39 @@
+
+# Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+.vscode/
+
+# Generated IDE and build files
+*.csproj
+*.sln
+*.slnx
+*.user
+*.pidb
+*.booproj
+
+# Unity version-control workspace files
+.plastic/
+
+# Temporary files and logs
+~$*
+*.log
+ignore.conf
+.DS_Store
+Thumbs.db
+
+# Unrelated sibling projects and archives
+/CHRONORIFT/
+/CHRONORIFT1/
+/CHRONORIFT1.zip
+/Chrono Rift/
+/My project/
+# Accidental helper files
+/SemProj/.gitignore/
+/SemProj/LabRecord_Output/
